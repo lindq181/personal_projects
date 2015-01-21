@@ -1,0 +1,10 @@
+Jonathan Lindquist ID: 3526760
+Julia Hauble ID:4174283
+
+We both spent an equally ample amount of time designing, and utterly failing, at implementing this iteration. 
+
+We got absolutely nowhere with the sample tests.
+
+Julia got the Makefile to work, and Jonathan write the work statement.
+
+

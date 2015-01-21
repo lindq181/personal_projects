@@ -1,0 +1,53 @@
+Script started on Wed 03 Dec 2014 02:47:36 PM CST
+]0;lindq181@FoGGy: ~/Documents/4011/switchCodelindq181@FoGGy:~/Documents/4011/switchCode$ java TestCase
+Server is listening...
+Connection estabished. 
+The test will start in 5 seconds.
+*************
+Sending 0 1A-2B-3C-4D-5E-6F 11-22-33-44-55-66 to Switch...
+Received BROADCAST. Expected BROADCAST.
+
+Sending 1 11-22-33-44-55-66 AA-BB-CC-DD-EE-FF to Switch...
+Received BROADCAST. Expected BROADCAST.
+
+Sending 0 1A-2B-3C-4D-5E-6F 11-22-33-44-55-66 to Switch...
+Received 1. Expected 1.
+
+Sending 0 10-20-30-40-50-60 1A-2B-3C-4D-5E-6F to Switch...
+Received IGNORE. Expected IGNORE.
+
+Sending 2 2A-2B-2C-2D-2E-2F 1A-2B-3C-4D-5E-6F to Switch...
+Received 0. Expected 0.
+
+Sending 2 2A-2B-2C-2D-2E-2F AA-BB-CC-DD-EE-FF to Switch...
+Received BROADCAST. Expected BROADCAST.
+
+Sending 2 AA-AA-AA-AA-AA-AA 2A-2B-2C-2D-2E-2F to Switch...
+Received IGNORE. Expected IGNORE.
+
+Sending 4 10-20-30-40-50-60 42-11-42-11-42-11 to Switch...
+Received BROADCAST. Expected BROADCAST.
+
+Sending 1 11-22-33-44-55-66 10-20-30-40-50-60 to Switch...
+Received 4. Expected 4.
+
+Total Test Cases: 9
+Correct: 9
+]0;lindq181@FoGGy: ~/Documents/4011/switchCodelindq181@FoGGy:~/Documents/4011/switchCode$ ext
+No command 'ext' found, did you mean:
+ Command 'ex' from package 'nvi' (universe)
+ Command 'ex' from package 'vim-tiny' (main)
+ Command 'ex' from package 'vim-athena' (universe)
+ Command 'ex' from package 'vim-gnome' (main)
+ Command 'ex' from package 'vim-gtk' (universe)
+ Command 'ex' from package 'vim' (main)
+ Command 'ex' from package 'vim-nox' (universe)
+ Command 'eet' from package 'libeet-bin' (universe)
+ Command 'next' from package 'nmh' (universe)
+ Command 'exp' from package 'alliance' (universe)
+ Command 'ent' from package 'ent' (universe)
+ext: command not found
+]0;lindq181@FoGGy: ~/Documents/4011/switchCodelindq181@FoGGy:~/Documents/4011/switchCode$ exit
+exit
+
+Script done on Wed 03 Dec 2014 02:47:57 PM CST

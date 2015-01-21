@@ -1,0 +1,3 @@
+we made the appropriate changes to scanner.h, the updates to scanner to recognize the keywords, and the additional 3 tests to scanner_tests.h together.
+Basically, we worked on iteration 2 together
+

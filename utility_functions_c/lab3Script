@@ -1,0 +1,94 @@
+Script started on Wed 10 Dec 2014 04:21:38 PM CST
+]0;lindq181@FoGGy: ~/Documents/4061/lab3lindq181@FoGGy:~/Documents/4061/lab3$ make lab3
+gcc -c utility.c
+gcc -o utility utility.c
+./utility
+Enter command or type 'end' to quit-> ls -l
+File Name: Makefile
+Permissions: -rw-rw-r--
+Owner: 1000
+Group: 1000
+Bytes: 174
+Date last modified: Wed Dec 10 16:18:34 2014
+
+File Name: utility.c
+Permissions: -rw-rw-r--
+Owner: 1000
+Group: 1000
+Bytes: 5482
+Date last modified: Wed Dec 10 16:04:55 2014
+
+File Name: lab3
+Permissions: -rw-rw-r--
+Owner: 1000
+Group: 1000
+Bytes: 0
+Date last modified: Wed Dec 10 16:21:38 2014
+
+File Name: Makefile~
+Permissions: -rw-rw-r--
+Owner: 1000
+Group: 1000
+Bytes: 182
+Date last modified: Wed Dec 10 16:18:03 2014
+
+File Name: utility.o
+Permissions: -rw-rw-r--
+Owner: 1000
+Group: 1000
+Bytes: 8632
+Date last modified: Wed Dec 10 16:21:42 2014
+
+File Name: utility
+Permissions: -rwxrwxr-x
+Owner: 1000
+Group: 1000
+Bytes: 14102
+Date last modified: Wed Dec 10 16:21:42 2014
+
+File Name: trial.txt
+Permissions: -rw-rw-r--
+Owner: 1000
+Group: 1000
+Bytes: 4377
+Date last modified: Mon Nov  3 14:10:34 2014
+
+Enter command or type 'end' to quit-> find trial.txt /home
+/home/lindq181/Documents/4011/Prog2res/timeOutExampleJava/trial.txt
+/home/lindq181/Documents/4011/assignment2code/trial.txt
+/home/lindq181/Documents/4011/your_lindq181_project3/trial.txt
+/home/lindq181/Documents/4061/lab3/trial.txt
+Enter command or type 'end' to quit-> find trial.txt /home/lindq181/Documents/4011
+/home/lindq181/Documents/4011/Prog2res/timeOutExampleJava/trial.txt
+/home/lindq181/Documents/4011/assignment2code/trial.txt
+/home/lindq181/Documents/4011/your_lindq181_project3/trial.txt
+Enter command or type 'end' to quit-> find gho /home
+couldn't find file, try again
+Enter command or type 'end' to quit-> 
+No arguments provided
+Enter command or type 'end' to quit-> grep Zach trial.txt
+Line # 65
+As always, a tip of the cap to Zach Rodgers of ESPN Stats & Information for always replying to my e
+Line # 66
+mails and questions with helpful answers. Zach is always very sure in his takes. Let's get to it.
+
+Enter command or type 'end' to quit-> grep Jon trial.txt
+Enter command or type 'end' to quit-> grep Ditka trial.txt
+Line # 18
+ ESPN. This was "Sunday NFL Countdown." This was the only thing Mike Ditka knew about me.
+
+Line # 51
+Before we dive in, quick addendum to the Ditka story. A few weeks later, I walk into the green room
+Line # 54
+n is clearly dismissive. Ditka sees this and pipes up, speaking to me but loud enough for everyone 
+Line # 63
+fight between an Imperial Starfleet and Ditka, Ditka wins.
+
+Enter command or type 'end' to quit-> find
+unknown command
+Enter command or type 'end' to quit-> end
+ending session...
+]0;lindq181@FoGGy: ~/Documents/4061/lab3lindq181@FoGGy:~/Documents/4061/lab3$ exit
+exit
+
+Script done on Wed 10 Dec 2014 04:23:33 PM CST

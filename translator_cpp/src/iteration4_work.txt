@@ -1,0 +1,7 @@
+Authors: Jonathan Lindquist & Julia Hauble
+Team: John-Turturro
+
+Jonathan: 
+	built the cppcode() functions that were used in samples 4-6 and built my_code_2.dsl and .expected to pass. Updated Makefile to compile and run iter 4 tests.
+
+Julia:

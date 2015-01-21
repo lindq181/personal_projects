@@ -1,0 +1,68 @@
+Script started on Sat 08 Nov 2014 10:03:23 PM CST
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ gcc -o server fifoServer.c -lpthread
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./server
+Inside -1626892544 thread, 38006122058229
+
+clientstring "3800"
+found number: Jon
+Inside -1635285248 thread, 38011234567890
+
+clientstring "3801"
+found number: Jane
+Inside -1643677952 thread, 38021234567890
+
+clientstring "3802"
+found number: Jane
+Inside -1626892544 thread, 38030987654321
+
+clientstring "3803"
+found number: Jake
+Inside -1635285248 thread, 38040987654321
+
+clientstring "3804"
+found number: Jake
+Inside -1643677952 thread, 38080987654321
+
+clientstring "3808"
+found number: Jake
+Inside -1626892544 thread, 38090987654321
+
+clientstring "3809"
+found number: Jake
+Inside -1635285248 thread, 38110987654321
+
+clientstring "3811"
+found number: Jake
+Inside -1643677952 thread, 38121234567890
+
+clientstring "3812"
+found number: Jane
+Inside -1626892544 thread, 38141234567890
+
+clientstring "3814"
+found number: Jane
+Inside -1635285248 thread, 38151234567890
+
+clientstring "3815"
+found number: Jane
+Inside -1643677952 thread, 38176122058229
+
+clientstring "3817"
+found number: Jon
+Inside -1626892544 thread, 38186122058229
+
+clientstring "3818"
+found number: Jon
+Inside -1635285248 thread, 38206122058229
+
+clientstring "3820"
+found number: Jon
+Inside -1643677952 thread, 38210987654321
+
+clientstring "3821"
+found number: Jake
+^C
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ exit
+exit
+
+Script done on Sat 08 Nov 2014 10:04:22 PM CST

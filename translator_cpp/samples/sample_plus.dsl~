@@ -1,0 +1,36 @@
+main () {
+
+Int x;
+Float y;
+
+Str kay;
+kay = "nom";
+
+y = 4 + 5;
+y = 4 - 5;
+while (y < 4) {
+	y = y + 1;
+}
+
+;
+
+{x = 0;}
+
+y = y + 1;
+jim = true;
+
+if (x == 7) {
+	dave = false;
+}
+
+if (x == 5) 
+	{dave = true;}
+else
+	jim = false;
+
+if (x <= 6)
+	print (5);
+
+x[0,9] = 5;
+
+}

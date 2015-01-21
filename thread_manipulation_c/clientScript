@@ -1,0 +1,51 @@
+Script started on Sat 08 Nov 2014 10:03:47 PM CST
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ gcc -o client fifoClient.c
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 6122058229, Client ID: 3800
+Jon
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 1234567890, Client ID: 3801
+Jane
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 1234567890, Client ID: 3802
+Jane
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 0987654321, Client ID: 3803
+Jake
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 0987654321, Client ID: 3804
+Jake
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 0987654321, Client ID: 3808
+Jake
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 0987654321, Client ID: 3809
+Jake
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 0987654321, Client ID: 3811
+Jake
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 1234567890, Client ID: 3812
+Jane
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 1234567890, Client ID: 3814
+Jane
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 1234567890, Client ID: 3815
+Jane
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 6122058229, Client ID: 3817
+Jon
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 6122058229, Client ID: 3818
+Jon
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 6122058229, Client ID: 3820
+Jon
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ ./client
+Chosen #: 0987654321, Client ID: 3821
+Jake
+]0;lindq181@FoGGy: ~/Documents/4061/lab2lindq181@FoGGy:~/Documents/4061/lab2$ exit
+exit
+
+Script done on Sat 08 Nov 2014 10:04:18 PM CST

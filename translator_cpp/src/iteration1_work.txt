@@ -1,0 +1,8 @@
+Authors: Jonathan Lindquist, Julia Hauble
+
+
+We worked together on the design.
+
+Jonathan: worked on the punctuation/Operator Regex's and punctuation/Operator test cases
+
+Julia: worked on numbers/string/constants Regex's and like test cases
